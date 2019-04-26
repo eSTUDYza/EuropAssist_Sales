@@ -9,13 +9,13 @@
       <image:loc>http://sales.com/images/sales.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sales.com/images/asset%204activities-crop-u137.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://sales.com/images/asset%205my%20discussion.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sales.com/images/asset%206resources.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sales.com/images/asset%208activities.png</image:loc>
     </image:image>
   </url>
 </urlset>
